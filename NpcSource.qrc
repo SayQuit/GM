@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Donne.png</file>
+        <file>Box.png</file>
+        <file>photo/Mirror.png</file>
+    </qresource>
+</RCC>

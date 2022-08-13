@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Klein">
+        <file>kleinA1.png</file>
+        <file>kleinA2.png</file>
+        <file>kleinA3.png</file>
+        <file>kleinD1.png</file>
+        <file>kleinD2.png</file>
+        <file>kleinD3.png</file>
+        <file>kleinS1.png</file>
+        <file>kleinS2.png</file>
+        <file>kleinS3.png</file>
+        <file>kleinW1.png</file>
+        <file>kleinW2.png</file>
+        <file>kleinW3.png</file>
+        <file>Player.jpg</file>
+    </qresource>
+</RCC>

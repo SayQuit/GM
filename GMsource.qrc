@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Background">
+        <file>Background.jpg</file>
+        <file>London.jpg</file>
+    </qresource>
+    <qresource prefix="/Scene">
+        <file>EastArea.png</file>
+        <file>Room.png</file>
+        <file>PoliceOffice.png</file>
+        <file>cancelIcon.png</file>
+    </qresource>
+</RCC>
